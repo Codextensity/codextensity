@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-💡 &nbsp;  Hi 👋, I’m Marc Sevilla—a technical support specialist at ClickUp and a freelance WordPress developer! \
+💡 &nbsp;  Hi 👋, I’m Marc Sevilla — a technical support specialist at ClickUp and a freelance WordPress developer! \
 🎓 &nbsp;  I graduated from Father Saturnino Urios University with a Bachelor of Science in Information Technology (Batch of 2017). \
-🌱 &nbsp;  I’m currently diving into the MERN Stack, exploring full-stack development as a newbie eager to learn and grow. \
+🌱 &nbsp;  I’m currently diving into the **MERN Stack**, exploring full-stack development as a newbie eager to learn and grow. \
 🎮 &nbsp;  In my free time, I enjoy playing Dota 2, DayZ, and Counter-Strike 2 — gaming keeps my creativity and problem-solving skills sharp! \
 💬 &nbsp;  Feel free to reach out if you'd like to discuss web development, freelancing, or technical support challenges. \
 ✉️ &nbsp;  You can email me at marcbsevilla@gmail.com, and I’ll respond as soon as I can! \
