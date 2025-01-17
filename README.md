@@ -9,7 +9,7 @@
 📄 &nbsp;  Check out my LinkedIn for more about my professional journey. 
 
 
-### 🛠 &nbsp;Tech Stack:
+# 🛠 &nbsp;Tech Stack:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -22,7 +22,7 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
 
 
-### 📫 &nbsp; How to reach me:
+# 📫 &nbsp; How to reach me:
 
 <a href="mailto:marcbsevilla@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
