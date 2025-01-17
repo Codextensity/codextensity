@@ -9,7 +9,7 @@
 📄 &nbsp;  Check out my LinkedIn for more about my professional journey. 
 
 
-🛠 &nbsp;Tech Stack:
+#🛠 Tech Stack:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -22,11 +22,11 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
 
 
-📫 &nbsp; How to reach me:
+#📫 How to reach me:
 
 <a href="mailto:marcbsevilla@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
-🌐 &nbsp; Socials:
+#🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/allivescram) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pancitcanthony) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-anthony-sevilla/) 
