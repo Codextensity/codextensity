@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🙋‍♂️ About Me:
 
 💡 &nbsp;  Hi 👋, I’m Marc Sevilla — a technical support specialist at ClickUp and a freelance WordPress developer! \
 🎓 &nbsp;  I graduated from Father Saturnino Urios University with a Bachelor of Science in Information Technology (Batch of 2017). \
