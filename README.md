@@ -12,13 +12,12 @@
 
 ## 💡 About Me
 
-- 🌐 &nbsp;I'm a **web developer** and a freelance **WordPress developer**, building fast, modern web experiences.
-- 🎓 &nbsp;Graduated from **Father Saturnino Urios University** with a B.S. in Information Technology (Batch 2017).
-- 🌱 &nbsp;Deep in the **MERN Stack** and **TypeScript**, leveling up across the full stack every day.
-- 🎮 &nbsp;Off the clock I'm playing **Dota 2**, **DayZ**, and **Counter-Strike 2** — keeps the problem-solving sharp.
-- 💬 &nbsp;Reach out if you want to talk **Web Development** or **Freelancing**.
-- ✉️ &nbsp;Email me at **marcbsevilla@gmail.com** — I'll get back to you ASAP.
-- 📄 &nbsp;Check out my **LinkedIn** for the full professional journey.
+- 🌐 &nbsp;**Web developer** who builds fast, modern web apps that don't make users rage-quit.
+- ⚛️ &nbsp;Living in the **MERN stack** with **TypeScript** as my safety net, **Next.js** for the polish.
+- 🧩 &nbsp;I treat bugs like puzzles and ship features like it's a competitive sport.
+- 🛠️ &nbsp;Freelance **WordPress dev** on the side, because someone's gotta tame those themes.
+- 🚀 &nbsp;Obsessed with clean code, snappy UIs, and that sweet green deploy checkmark.
+- 💬 &nbsp;Wanna talk **web dev** or **freelancing**? My inbox is always open: **marcbsevilla@gmail.com**
 
 ---
 
