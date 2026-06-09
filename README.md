@@ -62,4 +62,4 @@ const marc = {
 </p>
 
 <!-- ===== FOOTER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00C2FF&height=120&section=footer&text=Always%20learning,%20always%20shipping%20ðŸš€&fontSize=20&fontColor=ffffff&fontAlignY=70" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00C2FF&height=120&section=footer&text=Always%20learning,%20always%20shipping%20%F0%9F%9A%80&fontSize=20&fontColor=ffffff&fontAlignY=70" />
