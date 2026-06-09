@@ -48,6 +48,11 @@ const marc = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codextensity&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
+<!-- ===== SNAKE ===== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Codextensity/Codextensity/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 <br>
 
 <!-- ===== CONTACT ===== -->
