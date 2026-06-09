@@ -1,69 +1,83 @@
-<h1 align="center">🙋‍♂️ Hey there, I'm Codextensity</h1>
+<!-- ===== HEADER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7B2FF7&height=200&section=header&text=Codextensity&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%C2%B7%20Full-Stack%20MERN%20%C2%B7%20Freelance%20WordPress&descAlignY=58&descSize=18" />
 
 <p align="center">
-  <b>Web Developer</b> · Full-Stack (MERN) · Freelance WordPress Developer
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=520&lines=Building+for+the+web+%E2%9A%A1;MERN+%2B+TypeScript+enthusiast;Turning+caffeine+into+clean+commits;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=480&lines=Building+for+the+web+%E2%9A%A1;MERN+%2B+TypeScript+enthusiast;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=Codextensity&label=Profile%20Views&color=00C2FF&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Codextensity?label=Followers&style=flat&color=7B2FF7" alt="Followers" />
 </p>
 
----
+<!-- ===== ABOUT ===== -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
 
-## 💡 About Me
+```js
+const marc = {
+  role: "Web Developer",
+  stack: ["TypeScript", "React", "Next.js", "Node.js", "Express"],
+  databases: ["MongoDB", "PostgreSQL", "Supabase"],
+  sideQuest: "Freelance WordPress Developer",
+  mindset: "Treats bugs like puzzles, ships features like a sport",
+  obsession: ["clean code", "snappy UIs", "that green deploy âœ“"],
+  inbox: "marcbsevilla@gmail.com", // always open
+};
+```
 
-- 🌐 &nbsp;**Web developer** who builds fast, modern web apps that don't make users rage-quit.
-- ⚛️ &nbsp;Living in the **MERN stack** with **TypeScript** as my safety net, **Next.js** for the polish.
-- 🧩 &nbsp;I treat bugs like puzzles and ship features like it's a competitive sport.
-- 🛠️ &nbsp;Freelance **WordPress dev** on the side, because someone's gotta tame those themes.
-- 🚀 &nbsp;Obsessed with clean code, snappy UIs, and that sweet green deploy checkmark.
-- 💬 &nbsp;Wanna talk **web dev** or **freelancing**? My inbox is always open: **marcbsevilla@gmail.com**
+<br>
 
----
-
-## 🛠 Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=E34F26)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=7952B3)&nbsp;
-
-### Tools & Platforms
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=4169E1)&nbsp;
-![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase&logoColor=3FCF8E)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=FF6C37)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
-
----
-
-## 📊 GitHub Stats
+<!-- ===== TECH STACK ===== -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Tech Arsenal
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Codextensity&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codextensity&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,bootstrap&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,postman,git,github,wordpress&theme=dark" />
 </p>
 
----
+<br>
 
-## 📫 How to Reach Me
+<!-- ===== GITHUB STATS ===== -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> GitHub Stats
 
-<a href="mailto:marcbsevilla@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/marc-anthony-sevilla/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://facebook.com/allivescram"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>&nbsp;
-<a href="https://instagram.com/pancitcanthony"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.herokuapp.com/api?username=Codextensity&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codextensity&theme=tokyonight&hide_border=true" alt="Streak" height="165" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.herokuapp.com/api/top-langs/?username=Codextensity&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
-<p align="center"><i>"Always learning, always shipping." 🚀</i></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Codextensity&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+</p>
+
+<!-- ===== ACTIVITY GRAPH ===== -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codextensity&theme=tokyo-night&hide_border=true&area=true&color=00C2FF&line=7B2FF7&point=ffffff" width="95%" alt="Activity Graph" />
+</p>
+
+<!-- ===== SNAKE ===== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Codextensity/Codextensity/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<br>
+
+<!-- ===== CONTACT ===== -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Let's Connect
+
+<p align="center">
+  <a href="mailto:marcbsevilla@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/marc-anthony-sevilla/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Codextensity"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://facebook.com/allivescram"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/pancitcanthony"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<!-- ===== FOOTER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00C2FF&height=120&section=footer&text=Always%20learning,%20always%20shipping%20ðŸš€&fontSize=20&fontColor=ffffff&fontAlignY=70" />
