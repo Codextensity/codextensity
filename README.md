@@ -49,8 +49,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allivescram&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allivescram&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codextensity&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codextensity&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 ---
