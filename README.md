@@ -20,7 +20,7 @@ const marc = {
   databases: ["MongoDB", "PostgreSQL", "Supabase"],
   sideQuest: "Freelance WordPress Developer",
   mindset: "Treats bugs like puzzles, ships features like a sport",
-  obsession: ["clean code", "snappy UIs", "that green deploy âœ“"],
+  obsession: ["clean code", "snappy UIs", "that green deploy "that green deploy ✔"],
   inbox: "marcbsevilla@gmail.com", // always open
 };
 ```
