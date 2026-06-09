@@ -49,8 +49,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codextensity&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codextensity&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <a href="https://github.com/Codextensity">
+    <img src="https://github-readme-stats.vercel.app/api?username=Codextensity&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="165" />
+  </a>
 </p>
 
 ---
