@@ -44,26 +44,8 @@ const marc = {
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.herokuapp.com/api?username=Codextensity&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codextensity&theme=tokyonight&hide_border=true" alt="Streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.herokuapp.com/api/top-langs/?username=Codextensity&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Codextensity&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
-</p>
-
-<!-- ===== ACTIVITY GRAPH ===== -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codextensity&theme=tokyo-night&hide_border=true&area=true&color=00C2FF&line=7B2FF7&point=ffffff" width="95%" alt="Activity Graph" />
-</p>
-
-<!-- ===== SNAKE ===== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Codextensity/Codextensity/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Codextensity&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codextensity&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 <br>
